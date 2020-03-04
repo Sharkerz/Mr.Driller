@@ -1,0 +1,14 @@
+0 = air 
+1 = oxygene
+2 = tnt
+3 = rouge
+4 = bleu
+5 = vert 
+6 = jaune
+7 = caisse blanche
+8 = caisse brune
+
+
+
+
+hauteur dans liste =  (hauteur - 400) / 100
