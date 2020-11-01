@@ -699,7 +699,7 @@ try:
 
                   #lancement de la musique du menu
                   if not musique:
-                        pygame.mixer.music.load("sons/menu.mp3")
+                        pygame.mixer.music.load("sons/menu.wav")
                         pygame.mixer.music.play()
                         musique = True
 
@@ -765,7 +765,7 @@ try:
 
                   #lancement de la musique du jeu
                   if not musique:
-                        pygame.mixer.music.load("sons/jeu.mp3")
+                        pygame.mixer.music.load("sons/jeu.wav")
                         pygame.mixer.music.play()
                         musique = True
                   
